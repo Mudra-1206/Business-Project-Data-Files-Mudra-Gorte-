@@ -1,0 +1,817 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,38,Mongolia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,409.9293187186791,616.0949098363188,277.9030546065243
+1,Deaths,38,Mongolia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,121.24644358310454,192.73438793988873,42.72152077037644
+1,Deaths,39,Republic of Tajikistan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,206.09288361269432,330.4872680577918,131.45200245987255
+1,Deaths,119,Republic of Trinidad and Tobago,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,29.82054592521761,38.43347648774733,22.27638965461381
+1,Deaths,184,Republic of Mozambique,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.21001778932267487,1.254690712963853,0.04366906728982656
+1,Deaths,54,Slovak Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,710.6482226723166,897.3899125997846,546.4416677541185
+1,Deaths,87,Grand Duchy of Luxembourg,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,35.38100587957997,41.68678586564547,28.237286794850576
+1,Deaths,136,Republic of Paraguay,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,63.73379766732956,92.6783076816555,42.25094651495468
+1,Deaths,185,Republic of Rwanda,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,526.6935813300312,849.8976331438464,316.5655031233467
+1,Deaths,71,Australia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,890.1685282738464,1127.125668765415,689.8960258878506
+1,Deaths,71,Australia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,437.2875214697578,461.03061702565816,409.4058247151971
+1,Deaths,169,Central African Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,24.09375220428999,50.76096141375823,9.65777149572225
+1,Deaths,152,Kingdom of Saudi Arabia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,224.72317028541306,359.76606007594563,127.46909882884431
+1,Deaths,218,Togolese Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,85.04943009355324,120.7676015799553,52.73089688750652
+1,Deaths,218,Togolese Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.850070610324423,7.006605691793467,0.3716137402048602
+1,Deaths,170,Republic of the Congo,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,75.66870697503211,107.28449034023691,45.30978785462473
+1,Deaths,71,Australia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,345.10084619710267,379.91242645750077,313.0601034170553
+1,Deaths,203,Republic of Cabo Verde,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,10.839125232861615,16.458067454637042,6.499586846813981
+1,Deaths,72,New Zealand,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,51.98058641573363,55.5461820699845,48.42479202184899
+1,Deaths,170,Republic of the Congo,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.0820688010950784,0.46582792444289767,0.015475954292865251
+1,Deaths,24,Republic of the Marshall Islands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.17206187346130952,0.33215339030770596,0.08733329766058165
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,5.5812968261949765,6.732728356726815,4.408733197783418
+1,Deaths,122,Republic of Ecuador,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,116.90115741712455,160.9087502276837,80.5808119075678
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3372.6125929271225,5285.632245064169,1855.8294076069724
+1,Deaths,89,Kingdom of the Netherlands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,385.8133277578597,482.9425078631347,301.2979056924385
+1,Deaths,367,Principality of Monaco,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.532290411092192,3.8969457749386387,1.613260497556198
+1,Deaths,203,Republic of Cabo Verde,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.06251295162749218,0.15163102152566696,0.00823630004603977
+1,Deaths,367,Principality of Monaco,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.5543583000175079,2.45198941029978,0.5740398265211243
+1,Deaths,24,Republic of the Marshall Islands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.024841311935890238,0.053638283749955426,0.0032519471014323714
+1,Deaths,6,People's Republic of China,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,18605.013852376364,24763.065781042307,9375.084713478447
+1,Deaths,6,People's Republic of China,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1860.9605175806012,2986.831002677867,317.6173065391086
+1,Deaths,369,Republic of Nauru,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.11507675920368726,0.1933000238527367,0.05614846524512193
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.1347527957630157,1.7304260846258024,0.6417291350197448
+1,Deaths,106,Commonwealth of the Bahamas,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,25.919268676586896,34.10808740360076,19.317019502851558
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,600.0991853419379,997.3328410387292,322.58252058890105
+1,Deaths,155,Republic of Turkey,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,411.56993223747907,614.8508318837868,271.32551814877723
+1,Deaths,90,Kingdom of Norway,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,163.65458934124155,171.9133197475241,154.4799291242875
+1,Deaths,57,Republic of Belarus,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,169.08805081744626,225.70242088152176,117.6567284450735
+1,Deaths,57,Republic of Belarus,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,2584.6050276738924,3087.5808443800693,2105.4961105703364
+1,Deaths,204,Republic of Chad,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,134.82966509974588,188.8122835370406,83.09146166007172
+1,Deaths,57,Republic of Belarus,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,799.5081676128898,994.265803226131,631.7835939116767
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,973.3458672877949,1299.958489944962,700.4984441233184
+1,Deaths,108,Belize,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.0670172783808374,2.7073279230463116,1.4936558039184051
+1,Deaths,58,Republic of Estonia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,135.41550016522234,164.72537580844585,108.79051467424148
+1,Deaths,374,Republic of Niue,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.0548482859972088,0.0829384247885307,0.03137721554535274
+1,Deaths,90,Kingdom of Norway,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,16.112842122604686,18.041222790985827,14.427167142033468
+1,Deaths,26,Independent State of Papua New Guinea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,85.39343758376954,133.39516604488662,53.238521733251766
+1,Deaths,123,Republic of Peru,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,287.55220086191724,488.8561148629697,199.45647091396916
+1,Deaths,58,Republic of Estonia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,153.07263409413915,173.64622601464845,133.79227639148607
+1,Deaths,123,Republic of Peru,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.304457259218673,2.54844998523969,0.26638638597746894
+1,Deaths,204,Republic of Chad,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,4.220900566804144,11.806477602333757,0.6092516996045649
+1,Deaths,380,Republic of Palau,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.27737753019242656,0.4368434572598109,0.16095225197248475
+1,Deaths,91,Portuguese Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,748.2005517970979,871.0091423621591,614.0397029982579
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,259.2577813026633,416.6920706585647,157.12351271676044
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,16.879901165708763,21.993699422388133,11.093935215621041
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.4311912186266239,3.158208418379743,0.06682309886885468
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.0428082127204,3.5606876809692016,1.1713752779479079
+1,Deaths,190,Republic of Uganda,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,433.44151362416966,630.9918860150362,299.2247979238307
+1,Deaths,109,Republic of Cuba,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,664.6707687413347,778.324673242129,564.772057064216
+1,Deaths,59,Republic of Latvia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,194.92690970479345,238.21209065935804,154.64250507246942
+1,Deaths,75,Republic of Austria,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,495.0834607433904,591.0802045276021,399.4229581689247
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.026481194962839,8.531459769538465,0.7818165527514761
+1,Deaths,190,Republic of Uganda,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.2007680664269569,1.4024352175814103,0.032990166324897846
+1,Deaths,109,Republic of Cuba,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,585.8046914005934,683.134082861594,490.76050496385346
+1,Deaths,191,Republic of Zambia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,631.3241843312425,968.775903698735,358.4761581974007
+1,Deaths,157,Republic of Yemen,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,135.8871938890189,233.50408670245855,75.85531737680702
+1,Deaths,29,Kingdom of Tonga,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.7210921667188125,1.0323267640118248,0.3478540048536318
+1,Deaths,43,Republic of Albania,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,128.28672867607676,195.35344816116273,77.80956014766878
+1,Deaths,43,Republic of Albania,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,12.645995996921112,18.29981111962551,8.285429471220548
+1,Deaths,141,Arab Republic of Egypt,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1074.9206449912065,1779.2726815497304,640.0855951810921
+1,Deaths,29,Kingdom of Tonga,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.029135747194550213,0.058368946234618774,0.0043683358287366775
+1,Deaths,110,Commonwealth of Dominica,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4.173312540914664,5.469018266857132,3.016613456869345
+1,Deaths,205,Republic of Côte d'Ivoire,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,790.0171735800288,1168.9224430511856,513.2235144862367
+1,Deaths,43,Republic of Albania,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,31.8731238126645,60.83601631850732,8.016249887212382
+1,Deaths,30,Republic of Vanuatu,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,7.8603188113751985,13.70495815275294,4.293744713596128
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,67.05664591921304,89.41280938765217,47.1765761011625
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,124.41714743115396,149.33812382666275,102.11835585459278
+1,Deaths,175,Republic of Burundi,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,140.43329920118094,217.20269781232946,90.1721686593233
+1,Deaths,10,Kingdom of Cambodia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,206.2373015112631,421.7979811767895,94.05812003936357
+1,Deaths,10,Kingdom of Cambodia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,136.91517107496435,194.8304496157027,91.59022509657244
+1,Deaths,10,Kingdom of Cambodia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,6.195734539431699,11.861270319504563,1.141304239249127
+1,Deaths,141,Arab Republic of Egypt,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.6723567894046779,1.6827582486999237,0.2297974383609072
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,67.63240413891992,84.2844795237637,53.00906803875902
+1,Deaths,94,Swiss Confederation,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,271.2051208413925,358.51719683939365,198.7381451949004
+1,Deaths,298,American Samoa,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.9195563741686887,1.3269554160658343,0.6032558906008947
+1,Deaths,522,Republic of Sudan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,81.56661175430236,130.88990853737008,44.000701249057265
+1,Deaths,142,Islamic Republic of Iran,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,140.8525625306826,164.24343601104604,103.68898666708738
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,27.23500845228689,33.02935634780488,22.084512538041288
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,251.21973513498725,334.1326659978185,172.94896166312523
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,141.68823014833495,197.30857047991418,97.62158906823444
+1,Deaths,11,Republic of Indonesia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,277.2011366815832,394.3742996764482,170.77351639293812
+1,Deaths,76,Kingdom of Belgium,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,458.99937509480804,490.5757796746934,427.2861221786138
+1,Deaths,193,Republic of Botswana,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,17.657412692437426,39.28568002231297,7.842835431816156
+1,Deaths,62,Russian Federation,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,22108.01613986606,23945.654127236612,20096.72524258316
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,5.266254794657632,6.865327246575943,3.721472232843713
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,10.76741542321892,12.960729697146254,8.605289382815064
+1,Deaths,76,Kingdom of Belgium,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,103.94804095247679,116.83437934857811,91.77735509320296
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,305.4071500451961,501.5573060147567,187.290633703047
+1,Deaths,62,Russian Federation,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,28545.601228306285,31472.77527384174,25511.104406089456
+1,Deaths,142,Islamic Republic of Iran,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,36.09098617765315,77.99621317808925,6.664870096623053
+1,Deaths,113,Republic of Guyana,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.670931717304896,6.6048089045149005,3.0473912188656165
+1,Deaths,176,Union of the Comoros,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,26.671627273588328,40.339757429353654,16.447343041237936
+1,Deaths,194,Kingdom of Lesotho,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,35.52359289615672,89.7968974688251,11.867805868390121
+1,Deaths,194,Kingdom of Lesotho,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,23.86227151443311,35.22550068363007,15.466339991473117
+1,Deaths,33,Republic of Armenia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,70.73501747902606,97.79963047240498,49.35966862649646
+1,Deaths,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1470.5806941792273,1500.2376232441222,1434.7059075603947
+1,Deaths,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,465.71077595787807,494.15098196883145,434.4699344574244
+1,Deaths,160,Islamic Republic of Afghanistan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,42.01677319045652,66.52825171009785,24.12399045677326
+1,Deaths,77,Republic of Cyprus,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,47.31498498530771,59.433399007008724,37.1672981690136
+1,Deaths,143,Republic of Iraq,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,146.90468413920738,229.63743008042195,83.25226231189336
+1,Deaths,320,Cook Islands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.6483093867833436,0.9897998832867614,0.4164665526169039
+1,Deaths,63,Ukraine,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6487.944526437926,8820.894265799205,4495.816577765296
+1,Deaths,45,Republic of Bulgaria,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1299.8774118970493,1589.4547267792566,993.9808826438331
+1,Deaths,127,Republic of El Salvador,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,25.012376568927046,34.78606229826324,17.058671460917402
+1,Deaths,396,Republic of San Marino,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2.085086074419517,2.9519215539590262,1.2907647144786116
+1,Deaths,208,Republic of Guinea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,170.5145934317122,274.3020066488154,101.56093139044724
+1,Deaths,194,Kingdom of Lesotho,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.03358269708423583,0.08385095442094365,0.00645082936802802
+1,Deaths,160,Islamic Republic of Afghanistan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,9.841533555989797,22.832391097066434,2.603257261650494
+1,Deaths,34,Republic of Azerbaijan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,219.18307139685706,331.4709582567654,138.431014024783
+1,Deaths,195,Republic of Namibia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,26.5209094134213,36.69129490536591,16.156819846218777
+1,Deaths,34,Republic of Azerbaijan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,37.62085004258668,122.5909942785886,3.9970859946803263
+1,Deaths,113,Republic of Guyana,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,22.815771269078635,30.93192462867832,16.323578077350813
+1,Deaths,127,Republic of El Salvador,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.055425848862983,3.6603416943281486,0.26559587286512215
+1,Deaths,178,State of Eritrea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,17.18984775386003,32.79757710959102,9.461987817888438
+1,Deaths,35,Georgia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,494.7252467689962,640.8259080887804,374.8063113978388
+1,Deaths,208,Republic of Guinea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.5599160829998433,9.403225784391548,0.48605417791112016
+1,Deaths,128,Republic of Guatemala,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1305.1179119611618,1512.1783754592834,1112.6271858231726
+1,Deaths,14,Republic of Maldives,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3.069820817505784,4.437041018155951,1.8865153292714523
+1,Deaths,196,Republic of South Africa,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1438.0194710343078,1742.951115347107,1198.8831377235665
+1,Deaths,416,Tuvalu,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.06220481350754528,0.1075094740020549,0.03492531290183127
+1,Deaths,349,Greenland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,8.454835246009118,11.263362359911998,6.493820490436469
+1,Deaths,209,Republic of Guinea-Bissau,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,23.218243655139258,33.924385062058406,14.936252745434167
+1,Deaths,349,Greenland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.6786060226998984,1.203465856354782,0.08787640711705237
+1,Deaths,179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,188.37107542155354,310.0265082011303,125.56625088023944
+1,Deaths,179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,826.1501756092317,1193.3241272012608,595.5118717135713
+1,Deaths,15,Republic of the Union of Myanmar,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5735.000495407298,8413.512040579508,3607.481317796134
+1,Deaths,47,Czech Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,288.11431748728046,369.7149915188517,217.7364455285397
+1,Deaths,179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.5102213751143228,4.400412138829274,0.06762667814142508
+1,Deaths,161,People's Republic of Bangladesh,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,25.484216227028714,45.17647860761546,17.062852032716435
+1,Deaths,15,Republic of the Union of Myanmar,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,30.619473759209882,57.185289064607666,5.464223683536061
+1,Deaths,114,Republic of Haiti,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,365.12774620878184,538.0545912126557,193.5747603017645
+1,Deaths,162,Kingdom of Bhutan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,40.299391083268695,76.57885493558858,23.627362828580065
+1,Deaths,128,Republic of Guatemala,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,10.042825919297279,12.24155248942435,8.234274863866622
+1,Deaths,351,Guam,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,5.502360687050507,7.6675642332565,3.7082627697466157
+1,Deaths,80,French Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2528.843891481105,3371.297303445896,1774.0122831354365
+1,Deaths,180,Republic of Kenya,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1911.1604806270645,2807.246027637661,1311.4582235898388
+1,Deaths,180,Republic of Kenya,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,479.4919926943149,635.9406513740076,354.98647432686323
+1,Deaths,80,French Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,455.6870245133339,528.4666475386571,389.0084143856213
+1,Deaths,210,Republic of Liberia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,150.50954179613353,227.175030594524,94.49180287427953
+1,Deaths,48,Hungary,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,608.7497655968717,679.171629726622,540.1700783051233
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.7430738273342934,4.294616626963268,1.7612774804946827
+1,Deaths,16,Republic of the Philippines,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3354.4418034599576,4396.906107202053,2599.7353317283105
+1,Deaths,81,Federal Republic of Germany,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5658.746303760913,6025.211963402688,5304.775190625148
+1,Deaths,48,Hungary,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1408.7321870482497,1679.6738877395665,1157.8075625339666
+1,Deaths,181,Republic of Madagascar,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,727.1716281287117,1204.2133194007115,411.67704946799887
+1,Deaths,129,Republic of Honduras,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,694.1103882394639,1060.7913172958092,372.57348481983837
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.3135344690841535,4.148795893637914,0.7318392906990494
+1,Deaths,146,Lebanese Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,11.764469334897019,17.86241084776999,7.366875433096395
+1,Deaths,6,People's Republic of China,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,13395.475561594238,18080.900630471428,9993.52696706406
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5.73702268338727,7.801668581034223,4.063615405683897
+1,Deaths,115,Jamaica,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,59.06098441725027,81.48410239939491,39.65142373264268
+1,Deaths,81,Federal Republic of Germany,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2608.550714856925,2894.6554447591775,2297.528873243517
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.6470282568968972,2.7035224039779755,0.44421354228343196
+1,Deaths,49,North Macedonia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,113.79811189536909,151.96206195463267,84.52723062989953
+1,Deaths,82,Hellenic Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,479.818492175076,562.620177256319,388.7840898085529
+1,Deaths,67,Japan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,576.1628189223186,602.1112333993738,544.3054348145948
+1,Deaths,146,Lebanese Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.24679964265267634,0.4034746058819156,0.02574227989868577
+1,Deaths,198,Republic of Zimbabwe,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,154.2278462689372,243.91112716463257,90.24031144297287
+1,Deaths,132,Republic of Panama,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,44.158402238446364,59.83749306513325,30.191932682252794
+1,Deaths,132,Republic of Panama,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,25.04728373531432,30.701211073274415,19.392590288991798
+1,Deaths,212,Islamic Republic of Mauritania,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,61.26223844605686,103.01072903364559,28.956322979880206
+1,Deaths,132,Republic of Panama,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,6.163058320560974,7.851178682375255,4.667666940947676
+1,Deaths,67,Japan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,473.6445698736051,512.2646050558726,433.5114141050287
+1,Deaths,147,State of Libya,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,13.368664294981441,20.221605927461503,6.10352980726709
+1,Deaths,183,Republic of Mauritius,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.9763731603039325,4.077268354393047,2.0762712288930194
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3940.5434730959673,5016.057275243628,3137.466980689858
+1,Deaths,99,Eastern Republic of Uruguay,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,39.36995496151611,54.664701280862715,27.506791205072464
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.5261476644459657,1.9417432361806692,1.136946823009996
+1,Deaths,99,Eastern Republic of Uruguay,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,52.07539544990899,59.31388848545563,45.82307405589807
+1,Deaths,184,Republic of Mozambique,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,423.70807325056825,583.4864656473118,267.7183361017779
+1,Deaths,148,Kingdom of Morocco,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,235.86371520887928,384.4396681127107,128.7542300660146
+1,Deaths,118,Republic of Suriname,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,5.4593792441833005,8.10874863944734,3.421640903177415
+1,Deaths,118,Republic of Suriname,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,15.040713318919046,20.133215934131652,9.192892902563477
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,277.03947460271934,407.09211537455957,184.65733690439782
+1,Deaths,118,Republic of Suriname,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.850617040115721,6.735802615729676,0.6855878513908135
+1,Deaths,200,Republic of Benin,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,305.3007701044542,464.47426432874727,187.69384754842923
+1,Deaths,213,Republic of the Niger,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,142.88172768898863,236.31210956251334,79.03959594059313
+1,Deaths,119,Republic of Trinidad and Tobago,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,68.44399239479989,92.45402327043222,46.9502898852378
+1,Deaths,213,Republic of the Niger,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,4.942486852855887,13.326185454111922,0.6329006284581016
+1,Deaths,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,195.0861816538348,309.5176115422744,111.63872627866502
+1,Deaths,150,Sultanate of Oman,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,7.1250392559950315,10.616812004184693,4.559299304027647
+1,Deaths,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,146.98135496584405,190.7762803732555,109.360569653945
+1,Deaths,88,Republic of Malta,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,10.382526532100313,13.94334790298437,7.448493619405404
+1,Deaths,85,State of Israel,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,76.96349679317352,104.85673372615132,53.79651493983251
+1,Deaths,101,Canada,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,794.4092687220366,1056.7075709519731,555.9538372241007
+1,Deaths,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.838662721756084,9.139350931237887,2.706265698065583
+1,Deaths,23,Republic of Kiribati,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.41417798794719163,0.6714199215282212,0.24899677123906455
+1,Deaths,23,Republic of Kiribati,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.49460022051410274,0.6600500442872653,0.3173444256063743
+1,Deaths,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.5410805760913228,1.2430783382027062,0.092473673539204
+1,Deaths,214,Federal Republic of Nigeria,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4702.617325147585,6476.077105853105,3188.4107904952502
+1,Deaths,151,State of Qatar,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,2.148998217068298,3.4224431194236735,1.261936150879856
+1,Deaths,23,Republic of Kiribati,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.12224508424406429,0.2281969851857471,0.02888832850998474
+1,Deaths,52,Romania,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,491.59457290809155,609.832303292262,372.8040654234181
+1,Deaths,85,State of Israel,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5.93434872583289,7.021923575458704,5.010483635450379
+1,Deaths,39,Republic of Tajikistan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,527.4270403602537,719.1166693050367,367.69215257630066
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,329.31639712829013,473.93143541191824,203.46126060501626
+1,Deaths,39,Republic of Tajikistan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,52.65805222620032,84.32527417238427,28.26285887463827
+1,Deaths,72,New Zealand,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,43.78063480842475,49.981979252490746,38.1737600643971
+1,Deaths,24,Republic of the Marshall Islands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1.707031588963675,2.7443870443392533,0.9215631606100334
+1,Deaths,151,State of Qatar,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.46738100058604826,1.5337531082058053,0.10524729589112927
+1,Deaths,52,Romania,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,744.1768989167261,911.6604883291528,587.3557637170402
+1,Deaths,39,Republic of Tajikistan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.05204444307425048,0.132961218749062,0.004520344470674191
+1,Deaths,53,Republic of Serbia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,373.6699602751994,468.26022013090613,271.35142415109567
+1,Deaths,20,Socialist Republic of Viet Nam,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1017.3625789748471,1448.2290782210584,493.35890682659925
+1,Deaths,20,Socialist Republic of Viet Nam,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,63.75234277401797,122.22632352133247,10.79022214870565
+1,Deaths,165,Islamic Republic of Pakistan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,733.1690375193273,996.3503756056606,519.5156487294004
+1,Deaths,165,Islamic Republic of Pakistan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,907.8844262878764,1324.019765983655,48.19017309706043
+1,Deaths,86,Republic of Italy,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,298.4746901175846,314.50542974601683,282.5908928964138
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,52.36636437629102,112.82378205532733,15.773172350729372
+1,Deaths,121,Plurinational State of Bolivia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,90.7954813622022,142.26191911611159,54.78484685635618
+1,Deaths,24,Republic of the Marshall Islands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.652234871545618,1.0087833276928106,0.3483560021569988
+1,Deaths,165,Islamic Republic of Pakistan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,135.68612723713034,367.48781066414017,25.562414798147753
+1,Deaths,10,Kingdom of Cambodia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1579.2875743741427,2353.347451690091,989.6984809268922
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1278.0745489702501,1714.8607519954942,924.7689718448659
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.47330250046108724,0.9246963177555848,0.25523973766753855
+1,Deaths,89,Kingdom of the Netherlands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,474.80141576464376,506.2926394747887,443.17264582308286
+1,Deaths,121,Plurinational State of Bolivia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.8996022980759146,1.8057568536005797,0.06201245710203301
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2.885508528765248,4.659888162858188,1.6157085956902033
+1,Deaths,217,Republic of Sierra Leone,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,65.69720654948019,101.85894681394784,39.42992201091058
+1,Deaths,55,Republic of Slovenia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,186.7376442653753,229.5405296300457,147.41390989116994
+1,Deaths,217,Republic of Sierra Leone,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.7154648471605882,7.210533998178275,0.34923523088564656
+1,Deaths,41,Republic of Uzbekistan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,280.04139664213267,425.617995710955,174.42284330428245
+1,Deaths,122,Republic of Ecuador,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,201.0087877213553,257.92576159693044,152.49267569111038
+1,Deaths,169,Central African Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.09747884865609899,0.5180418262754741,0.01739942060187696
+1,Deaths,122,Republic of Ecuador,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.5485171789286927,0.7938785877327069,0.3727930086602535
+1,Deaths,89,Kingdom of the Netherlands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,160.43408701439526,182.48332445683366,138.43499285389376
+1,Deaths,123,Republic of Peru,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3339.1617342187824,4559.118367344153,2405.319963219139
+1,Deaths,170,Republic of the Congo,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,266.17111087035425,405.3529686691194,157.52421220890292
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,96.14663142281783,155.1812292574969,55.75088558689985
+1,Deaths,74,Principality of Andorra,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.9870154127127675,7.605334726010235,3.140083815090511
+1,Deaths,90,Kingdom of Norway,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,123.41376907496655,136.4648424187975,110.95501744702922
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,141.09549587162272,185.99117218684543,108.77443686054714
+1,Deaths,154,Republic of Tunisia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,37.69462785184748,59.366128549095464,21.23228308772415
+1,Deaths,27,Independent State of Samoa,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.9025086317277473,1.425638660490345,0.5430693848190896
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.0347209454048294,1.308364517293108,0.7948999276542077
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,7.103766011810972,7.6653944735278685,6.504034505609208
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.05763857507813321,0.12129340561684497,0.007886710821748417
+1,Deaths,187,Federal Republic of Somalia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,79.02428260793721,159.0956353447071,32.4331365904109
+1,Deaths,11,Republic of Indonesia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,17385.539371652558,22371.95940237139,13157.377324273451
+1,Deaths,154,Republic of Tunisia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,9.298182908075086,18.726499683952625,1.7621363823578449
+1,Deaths,204,Republic of Chad,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,141.34978369795223,259.8475049649556,77.95238754257105
+1,Deaths,72,New Zealand,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,120.77799436042478,139.21230692115728,103.30240966054949
+1,Deaths,107,Barbados,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.805581767978998,6.6128304798062105,3.4359561941012147
+1,Deaths,57,Republic of Belarus,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,864.1632012272917,1127.5722283208675,626.9481861142067
+1,Deaths,43,Republic of Albania,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,105.18286288224034,142.16870054871282,74.0609259768344
+1,Deaths,72,New Zealand,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,88.25229678459074,97.0586851398303,80.0112779474705
+1,Deaths,187,Federal Republic of Somalia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.16548588335154543,0.955654975147499,0.01334766148789422
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,27.813058325709406,50.21857721386267,14.662953011544674
+1,Deaths,11,Republic of Indonesia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1686.5648666594136,2839.619966916731,1036.9585105375222
+1,Deaths,155,Republic of Turkey,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,218.11808485204324,288.2851855906469,125.76930179853902
+1,Deaths,88,Republic of Malta,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,14.562751210956954,17.514473719127555,11.578237114080915
+1,Deaths,41,Republic of Uzbekistan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3033.0845394158455,3911.3762245852145,2266.3113964685745
+1,Deaths,170,Republic of the Congo,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,32.5519136001971,64.0533106239555,15.832822334467476
+1,Deaths,11,Republic of Indonesia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,136.93230809179016,257.1571430229441,21.992753873442467
+1,Deaths,367,Principality of Monaco,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.15541359601185897,0.2067156684328726,0.08450068568552264
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.9671541126382371,1.1961278115376592,0.814922262408914
+1,Deaths,121,Plurinational State of Bolivia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1228.9791577193364,1802.28936331713,751.8948463819163
+1,Deaths,185,Republic of Rwanda,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.08773293163186478,0.61504111586135,0.013569311931044608
+1,Deaths,75,Republic of Austria,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,446.60492571732925,473.17393675977866,422.22712405020246
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,29.630529684062274,41.930152851362934,20.23876388334968
+1,Deaths,139,People's Democratic Republic of Algeria,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,176.19885363556114,280.7902231363564,103.5023385858556
+1,Deaths,106,Commonwealth of the Bahamas,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,18.52414154382287,23.490334143204812,14.541639938526213
+1,Deaths,75,Republic of Austria,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,150.60984129299186,168.82419948757084,133.45439796556292
+1,Deaths,26,Independent State of Papua New Guinea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,76.2484932955016,127.48713343531993,37.41643529317147
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,6.830701166647134,10.449633695777026,3.480458379004927
+1,Deaths,107,Barbados,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,15.430697768101028,20.309837531382435,10.823561732777206
+1,Deaths,140,Kingdom of Bahrain,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3.8103271120282374,5.999426661397711,2.168271254746009
+1,Deaths,58,Republic of Estonia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,41.170172946580465,53.59933214373876,31.086351922956993
+1,Deaths,154,Republic of Tunisia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,95.73160552643881,148.28249124416146,53.17377875491363
+1,Deaths,186,Republic of Seychelles,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.405544817918945,8.936775845323979,4.422489905610907
+1,Deaths,107,Barbados,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,11.377051302501988,14.58729409053294,8.708732424239455
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,49.33913143812014,70.00538640336774,31.534076943455055
+1,Deaths,155,Republic of Turkey,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,11.424592853960661,24.033942587653428,2.0747888398406453
+1,Deaths,203,Republic of Cabo Verde,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5.874079040502547,8.466620326452182,3.785913333141424
+1,Deaths,93,Kingdom of Sweden,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,258.89254436943224,306.26077396446163,215.76066677575923
+1,Deaths,369,Republic of Nauru,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.048699400020469734,0.08407233149448322,0.027376025724726527
+1,Deaths,369,Republic of Nauru,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.280184830136726,0.4717200542743886,0.11956805169492703
+1,Deaths,205,Republic of Côte d'Ivoire,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,303.63867917343515,424.51336871712954,190.760632500017
+1,Deaths,27,Independent State of Samoa,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3.539456428737224,5.3362326346904565,2.1497671179820683
+1,Deaths,90,Kingdom of Norway,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,110.919278111689,126.09226706561122,98.0978306580414
+1,Deaths,173,Gabonese Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,20.073378435168742,34.55184398775576,10.821977746732042
+1,Deaths,58,Republic of Estonia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,84.02485810174362,98.28247769541564,71.10513972449684
+1,Deaths,76,Kingdom of Belgium,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,674.4685551392105,792.8788989934391,548.9336273154242
+1,Deaths,187,Federal Republic of Somalia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,755.2340291392691,1234.510259657486,427.3802355266885
+1,Deaths,139,People's Democratic Republic of Algeria,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,48.68257868613734,65.86651552223238,22.61555567058467
+1,Deaths,93,Kingdom of Sweden,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,91.09124318623176,109.21188548790782,74.79813795700169
+1,Deaths,140,Kingdom of Bahrain,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.1517309634067554,2.5603925556293605,0.34078171725194245
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.2151778277240115,0.4796012481454231,0.031120594702682868
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,889.8256094174959,1221.4575505219643,594.7034848643292
+1,Deaths,123,Republic of Peru,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,249.1968411808852,374.8763775683017,159.15736722662598
+1,Deaths,29,Kingdom of Tonga,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2.8384526130148036,4.28166882784431,1.6834445291895819
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,20.214435454128736,33.03856002211478,11.351520208035389
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.3313069657781758,8.34514646240093,0.1920647422072366
+1,Deaths,13,Malaysia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1097.8845441112194,1518.7757919036023,735.9410835272907
+1,Deaths,173,Gabonese Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.024399063148394327,0.1352058651919759,0.004288465717418531
+1,Deaths,205,Republic of Côte d'Ivoire,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,8.929938531667164,20.014304650304705,1.1777662796681587
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.45987717202888256,0.7574370755838548,0.28511181325170365
+1,Deaths,59,Republic of Latvia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,211.56640596015683,238.35088687074867,183.91603586786064
+1,Deaths,13,Malaysia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,229.95867383710373,362.53430229531034,145.46473434793248
+1,Deaths,206,Republic of the Gambia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,55.095551099805164,83.71119451943412,33.06180160784755
+1,Deaths,369,Republic of Nauru,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.005297114555188205,0.009817950021325725,0.0007162953480758356
+1,Deaths,108,Belize,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,11.195807648611913,12.981426750080466,9.766218263330753
+1,Deaths,172,Republic of Equatorial Guinea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,29.056729563966503,49.98194396351705,15.229265159127541
+1,Deaths,141,Arab Republic of Egypt,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,9.0853007806712,13.94476950723567,6.807632604948741
+1,Deaths,126,Republic of Costa Rica,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,93.27697860946063,124.85419018009543,67.68461220931017
+1,Deaths,126,Republic of Costa Rica,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,20.55873182507273,23.823972446011012,17.423971659903952
+1,Deaths,140,Kingdom of Bahrain,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.980387117907545,10.920025403595057,4.171705745157599
+1,Deaths,91,Portuguese Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,466.9461617237353,577.5124056386486,363.2284005875913
+1,Deaths,91,Portuguese Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,155.84091047865863,165.75122828640838,145.42510110853647
+1,Deaths,94,Swiss Confederation,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,225.64516631098488,241.07590572941498,209.65160811989773
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,588.3386614615982,899.4106919326472,369.6009057400358
+1,Deaths,74,Principality of Andorra,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4.713249934543271,6.587484966212463,3.099733614151144
+1,Deaths,156,United Arab Emirates,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,45.341106181946735,71.82076628183869,26.6078645509885
+1,Deaths,108,Belize,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,6.369084857551247,7.555270646516705,5.3926400696170775
+1,Deaths,204,Republic of Chad,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,559.643603812504,884.0818756497486,330.1642936756485
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,148.2401386760884,207.95411506927607,101.26276970346467
+1,Deaths,374,Republic of Niue,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.018522458627251027,0.025362365574757642,0.010560540362832231
+1,Deaths,14,Republic of Maldives,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.4551563410058449,0.619736837528053,0.3096932735517212
+1,Deaths,91,Portuguese Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,66.571615028683,77.40089528433356,56.31795200313994
+1,Deaths,374,Republic of Niue,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.0010199960610910088,0.0018578128683873795,0.00013586276853198837
+1,Deaths,190,Republic of Uganda,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1055.2653671133346,1645.8456015801983,604.2884330985786
+1,Deaths,109,Republic of Cuba,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,909.9731191345874,1167.0022130288064,712.7465927061946
+1,Deaths,94,Swiss Confederation,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,93.04075903969026,110.68365545243681,75.54377856570731
+1,Deaths,92,Kingdom of Spain,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2771.5120557855757,3206.513239163538,2321.7581980096747
+1,Deaths,92,Kingdom of Spain,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,349.41002655988535,377.4518564209524,324.0801164235997
+1,Deaths,15,Republic of the Union of Myanmar,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,270.6392352122581,581.9700568296886,129.25809043637918
+1,Deaths,125,Republic of Colombia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1235.6624320113326,1620.5480113334859,900.8878634321309
+1,Deaths,175,Republic of Burundi,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,412.32480722995865,627.6735123496943,266.63923056046036
+1,Deaths,127,Republic of El Salvador,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,819.1397747443773,1096.2035603585023,584.5326502752107
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,113.84952795986221,227.16642593104106,21.784953694819265
+1,Deaths,190,Republic of Uganda,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,293.5440732239713,432.50278121954744,185.73491578655978
+1,Deaths,157,Republic of Yemen,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,32.893017207146116,48.52016962901371,14.615960202650786
+1,Deaths,109,Republic of Cuba,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,94.78523510714366,124.35930402199918,69.81705643186517
+1,Deaths,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4083.8661936341864,4604.181035492665,3597.272132887625
+1,Deaths,380,Republic of Palau,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.20383793019399712,0.29489860388100636,0.12767049817182677
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2.097474197649283,2.9480788999421224,1.4034738336489232
+1,Deaths,142,Islamic Republic of Iran,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,541.0739600063146,735.6582625892312,428.0764143118495
+1,Deaths,14,Republic of Maldives,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.1915399833609006,0.3386849668569264,0.05073172808176756
+1,Deaths,46,Republic of Croatia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,128.31419404888385,165.93347165716875,97.93141889976123
+1,Deaths,157,Republic of Yemen,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,12.792512727094065,28.572996807506374,3.0381556714309665
+1,Deaths,29,Kingdom of Tonga,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.045164279931884,3.2699873527746077,1.1980657555136758
+1,Deaths,46,Republic of Croatia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,288.6200087511121,354.1296629618715,233.65843001058835
+1,Deaths,380,Republic of Palau,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.007716419042089417,0.01623513948729072,0.0009804410888219423
+1,Deaths,60,Republic of Lithuania,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,304.9862157194828,375.13826641858805,238.89372919443773
+1,Deaths,191,Republic of Zambia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,208.26486454585392,300.29955645338424,128.93637692289857
+1,Deaths,110,Commonwealth of Dominica,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3.5721465265571037,4.50310932137341,2.30229438050898
+1,Deaths,60,Republic of Lithuania,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,74.96868174104382,94.66828910609537,57.20169110362995
+1,Deaths,385,Puerto Rico,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,298.9270319212062,382.6444017238567,223.90665252199557
+1,Deaths,209,Republic of Guinea-Bissau,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,25.827657094796464,39.803773164845175,14.488733430897796
+1,Deaths,97,Argentine Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,184.03662254548013,241.51104466140015,134.7891065152181
+1,Deaths,128,Republic of Guatemala,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1593.0307302158628,2048.874556295724,1199.5231854249391
+1,Deaths,15,Republic of the Union of Myanmar,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2949.8408186989677,4352.900054445885,1801.2056673218628
+1,Deaths,79,Republic of Finland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,195.42181713359207,253.4063154941151,139.56108588799626
+1,Deaths,160,Islamic Republic of Afghanistan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,52.01205874555271,78.82150150120678,24.038273461504303
+1,Deaths,206,Republic of the Gambia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,61.443877785950434,103.76042343184562,34.73572657370022
+1,Deaths,47,Czech Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,442.29020057349277,510.60010842186557,377.523140561265
+1,Deaths,126,Republic of Costa Rica,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,313.55544752187177,388.2898281307137,240.2526476744091
+1,Deaths,191,Republic of Zambia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.28666675708876954,2.3613435130726486,0.023224208093395086
+1,Deaths,93,Kingdom of Sweden,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,440.03508193445015,509.68395287186,375.652606203569
+1,Deaths,7,Democratic People's Republic of Korea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,175.31301148613392,290.9758863280499,103.19597721551739
+1,Deaths,47,Czech Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,102.91017175029238,131.68338003953764,76.86351139439626
+1,Deaths,16,Republic of the Philippines,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1323.8175698092812,1682.383626532376,1008.7841628595428
+1,Deaths,16,Republic of the Philippines,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,581.7239337456816,739.6153379745344,421.5985436494113
+1,Deaths,142,Islamic Republic of Iran,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,172.66603887226296,207.73340597044728,136.4254375492671
+1,Deaths,76,Kingdom of Belgium,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,336.99135907672013,435.37396251485234,256.2091761436227
+1,Deaths,55,Republic of Slovenia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,300.16623275294046,348.30325617720734,259.27405590169644
+1,Deaths,45,Republic of Bulgaria,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,144.52851122260893,168.0656149133935,124.32347717975179
+1,Deaths,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,9.883206936589518,15.86920974691954,5.8030406522243885
+1,Deaths,55,Republic of Slovenia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,71.5352228010076,89.81088330841712,57.02162418640384
+1,Deaths,161,People's Republic of Bangladesh,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6772.314937763433,10003.070159739504,4357.570630486588
+1,Deaths,30,Republic of Vanuatu,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.8924148424854647,1.5233653906234792,0.47376681663502845
+1,Deaths,30,Republic of Vanuatu,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,2.451233977662135,3.441319226905513,1.407801399950099
+1,Deaths,22,Republic of Fiji,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.10363180719376884,0.18321712660964296,0.014395011660054146
+1,Deaths,110,Commonwealth of Dominica,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.8717224779322005,1.5988521785782146,0.16799761773299435
+1,Deaths,79,Republic of Finland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,230.7684413623499,258.1076293000555,206.5169823813903
+1,Deaths,60,Republic of Lithuania,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,168.31606404406955,199.30811309312966,139.59045981952136
+1,Deaths,48,Hungary,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1602.586394377668,1912.2095888355047,1288.6673598326304
+1,Deaths,40,Turkmenistan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,57.1930135956681,82.18057261744713,37.67300258649478
+1,Deaths,16,Republic of the Philippines,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,71.79483310930455,148.58018905009033,14.925236772278954
+1,Deaths,46,Republic of Croatia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,478.9250890248422,580.7608242906789,381.5281886761599
+1,Deaths,177,Republic of Djibouti,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,5.147948768573458,8.84489187988656,2.945876378529265
+1,Deaths,62,Russian Federation,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2344.5073135761654,2680.1217608540373,2074.592366218388
+1,Deaths,80,French Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3050.568687023751,3342.325445134192,2814.3531230114922
+1,Deaths,209,Republic of Guinea-Bissau,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.581951907578878,1.3768085611632037,0.08923446672591381
+1,Deaths,207,Republic of Ghana,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,251.30807501685257,414.32833239365993,149.26065035249962
+1,Deaths,207,Republic of Ghana,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,352.1131040428015,476.072005730201,235.82778093892338
+1,Deaths,112,Grenada,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.7004397710867134,2.1990835806860938,1.2575091968570309
+1,Deaths,193,Republic of Botswana,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,18.836771933535037,27.582029603082432,10.976498836392297
+1,Deaths,23,Republic of Kiribati,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3.0433617791729146,4.794648267075326,1.7530363000433402
+1,Deaths,175,Republic of Burundi,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,27.380579313561206,58.937108459214315,14.266263828941868
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1024.0823965486725,1483.8255743713314,580.5320424259339
+1,Deaths,210,Republic of Liberia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,52.06226978739535,78.13027704869506,30.413544468299897
+1,Deaths,112,Grenada,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,4.223853853304729,5.0145407883082935,3.4973494174994015
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,378.482348532612,406.75644298090344,344.6660076943738
+1,Deaths,95,United Kingdom of Great Britain and Northern Ireland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2537.200012839576,2908.704703199823,2254.922245017641
+1,Deaths,175,Republic of Burundi,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.09563248553034032,0.6639242422924599,0.010690620051625365
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,320.6661009221197,361.6406665100436,283.9782751595273
+1,Deaths,33,Republic of Armenia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,30.460544164493967,35.23846574980287,26.764208516285315
+1,Deaths,178,State of Eritrea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,99.71372095212129,135.07303227345903,67.12861146805483
+1,Deaths,128,Republic of Guatemala,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,133.86280509987566,179.74283331490682,95.1141365759074
+1,Deaths,98,Republic of Chile,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,247.86322169130526,324.44659187279916,178.17693818364003
+1,Deaths,98,Republic of Chile,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,229.6635725161599,245.54492822303914,214.73910371050147
+1,Deaths,33,Republic of Armenia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,67.87625197702738,90.76259931273036,50.89020661069621
+1,Deaths,143,Republic of Iraq,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.1522860283150398,1.6580813560220666,0.6492050510611839
+1,Deaths,81,Federal Republic of Germany,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,7708.626771619001,9003.738067576005,6373.305318481449
+1,Deaths,130,United Mexican States,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1005.4469852393058,1206.2204169233146,818.9967067428819
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.7749789896759015,1.0238655800182248,0.5290947665904624
+1,Deaths,77,Republic of Cyprus,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,23.757340802054845,35.053496027272935,15.833519706367866
+1,Deaths,77,Republic of Cyprus,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,8.473882493011262,10.955465119035278,6.117177138113475
+1,Deaths,145,State of Kuwait,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2.6261467690848797,3.9191378136234323,1.702986573128133
+1,Deaths,145,State of Kuwait,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,2.56274920183595,3.206701624152975,2.0998981138309656
+1,Deaths,41,Republic of Uzbekistan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,217.29206092735748,255.7110064876348,182.04565824364042
+1,Deaths,207,Republic of Ghana,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,46.22354478456879,112.53245650354658,7.392473909729574
+1,Deaths,30,Republic of Vanuatu,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.11529272085405592,0.2331838225221241,0.019871492529118174
+1,Deaths,18,Kingdom of Thailand,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3618.1229871534165,5262.0229267431505,2371.867576778518
+1,Deaths,113,Republic of Guyana,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,17.43965459917283,22.954156658027483,12.869634356393528
+1,Deaths,8,Taiwan (Province of China),3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,86.24682171012351,97.0643270463429,76.14650156089913
+1,Deaths,145,State of Kuwait,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,4.073430231724965,5.5874903130505125,2.743699477021154
+1,Deaths,41,Republic of Uzbekistan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.2306220889491102,1.7218191837555914,0.8767496551188235
+1,Deaths,193,Republic of Botswana,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.0400474752094659,0.16350896935515324,0.007248264142197099
+1,Deaths,413,Tokelau,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.009164088434980885,0.015797257724882798,0.00498033518619839
+1,Deaths,194,Kingdom of Lesotho,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,90.55452836092896,131.3675692031796,55.04428639070095
+1,Deaths,208,Republic of Guinea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,353.0209357911639,539.6017868566644,212.55431606778333
+1,Deaths,63,Ukraine,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5111.731700851904,6961.165825481351,3595.0341067674544
+1,Deaths,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,807.4482883722827,1246.5238940894142,460.5224987673587
+1,Deaths,178,State of Eritrea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.05242505306498493,0.31840552922724846,0.008803770552888722
+1,Deaths,48,Hungary,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,147.3804198625311,194.24212171510007,109.01861495597113
+1,Deaths,34,Republic of Azerbaijan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1039.4249225113376,1395.6509697042811,732.7742001704003
+1,Deaths,18,Kingdom of Thailand,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,26.94779843082829,49.39614457262087,2.436028189565053
+1,Deaths,98,Republic of Chile,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,38.96071425520523,44.59546605119679,33.25214099306135
+1,Deaths,208,Republic of Guinea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,101.94839793154858,142.01899448112218,63.656988062322256
+1,Deaths,176,Union of the Comoros,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,10.043866271146264,15.547647897729071,6.396719137024137
+1,Deaths,146,Lebanese Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,32.888180730584146,51.03882045820298,20.371772579040044
+1,Deaths,143,Republic of Iraq,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.6277554127172595,3.0005757750334676,0.1473462901441796
+1,Deaths,393,Saint Kitts and Nevis,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.5087182954309408,2.061201961391124,1.1512107908661442
+1,Deaths,163,Republic of India,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,9305.243598224955,11430.312870939119,7647.946281793831
+1,Deaths,179,Federal Democratic Republic of Ethiopia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2675.9157279045207,3405.781908219315,2054.2166128707286
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,217.76039451285126,258.5456633331459,177.76878659441863
+1,Deaths,51,Republic of Poland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,576.0359389799588,646.8955749315645,503.41326327023614
+1,Deaths,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,217.91742893148967,385.5780188346575,128.6812361158748
+1,Deaths,121,Plurinational State of Bolivia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,277.7025245794251,400.244967952369,182.76868549351514
+1,Deaths,129,Republic of Honduras,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,360.63499805026794,534.8052756683607,238.05007375568874
+1,Deaths,63,Ukraine,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,8622.787081452181,11465.301738050317,6123.401396453334
+1,Deaths,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,24.17171144559188,38.60192981317185,14.230359633470641
+1,Deaths,146,Lebanese Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,4.5336790113505385,5.857633885309351,3.1507375875447106
+1,Deaths,77,Republic of Cyprus,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5.066061601302548,9.769397559915092,1.1239783358401807
+1,Deaths,88,Republic of Malta,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,2.4752017094321315,2.7752749908311944,2.199410076865566
+1,Deaths,129,Republic of Honduras,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,14.65839693690538,29.311655605882247,2.430282976479643
+1,Deaths,97,Argentine Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1825.6543274947223,2280.7735221765693,1378.9183774133799
+1,Deaths,195,Republic of Namibia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,90.08836993473308,133.0759821098635,57.15932607760088
+1,Deaths,298,American Samoa,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.536434203462417,0.704337635307339,0.35278021563382767
+1,Deaths,51,Republic of Poland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1795.5671632228746,2084.9425247753766,1499.093064105196
+1,Deaths,88,Republic of Malta,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.6350277659487218,1.919422002577687,1.3696397050624196
+1,Deaths,78,Kingdom of Denmark,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,337.50429795327096,400.76139471129517,278.5430602986684
+1,Deaths,18,Kingdom of Thailand,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,5357.504831933804,7517.503049146533,3494.821737460494
+1,Deaths,99,Eastern Republic of Uruguay,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,85.52799017136942,91.766099966353,79.33581669843771
+1,Deaths,209,Republic of Guinea-Bissau,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,68.12692543106353,103.7416590040638,40.35235417073975
+1,Deaths,131,Republic of Nicaragua,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,39.14179636619409,57.002660761712065,25.73185306652173
+1,Deaths,78,Kingdom of Denmark,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,576.706549765265,613.7995580574566,540.167791838095
+1,Deaths,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5.834827657164159,9.08757991815165,3.794969519280481
+1,Deaths,522,Republic of Sudan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,46.76659339936632,67.05477254009527,23.01415834226785
+1,Deaths,49,North Macedonia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,28.152635278853108,40.09763324778042,17.108985724465967
+1,Deaths,114,Republic of Haiti,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1050.6018419791685,1559.3820822934615,676.5372825878287
+1,Deaths,147,State of Libya,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,42.631971894092025,77.46032332934251,22.69895696181738
+1,Deaths,522,Republic of Sudan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,13.407551902563648,29.35492499517383,3.7977343525134897
+1,Deaths,413,Tokelau,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.0008756452240089942,0.0018021426411673853,0.00010276698933520138
+1,Deaths,59,Republic of Latvia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,53.76323830776461,67.64774830602931,40.86032585179275
+1,Deaths,211,Republic of Mali,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,491.9964036402675,737.244006492923,294.8655286485921
+1,Deaths,305,Bermuda,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3.447906968859053,4.393639061705574,2.6143224162487537
+1,Deaths,131,Republic of Nicaragua,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,278.69799691075116,372.96879183850854,205.2229215106229
+1,Deaths,59,Republic of Latvia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,396.7330831677578,467.5377730082875,330.2711268682662
+1,Deaths,396,Republic of San Marino,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.09546886950933782,0.14956675718714812,0.047641260637646614
+1,Deaths,131,Republic of Nicaragua,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5.488381190971454,9.261291487291928,1.0950852264768007
+1,Deaths,195,Republic of Namibia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,10.112407387943014,14.721683927209149,6.541887773433336
+1,Deaths,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,142.4846319423084,216.8013238061551,7.254759062821632
+1,Deaths,52,Romania,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,590.4894486644617,662.4366449076177,521.1373977477333
+1,Deaths,83,Republic of Iceland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,8.776678853847928,11.485125130190132,6.440668802910041
+1,Deaths,197,Kingdom of Eswatini,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,25.291598545410977,59.61957813579281,8.331350328770357
+1,Deaths,49,North Macedonia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,70.31736856837702,144.3199497077056,14.398799901291403
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,58.162842359133336,94.21886050170544,34.70080078299936
+1,Deaths,122,Republic of Ecuador,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1231.1839275015375,1670.8136525545756,875.9834337112432
+1,Deaths,176,Union of the Comoros,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.006017659702066515,0.048671622779554696,0.0010102438334487298
+1,Deaths,89,Kingdom of the Netherlands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,499.6431766961004,590.034329364344,402.1261928355745
+1,Deaths,416,Tuvalu,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.13629091501185614,0.1868308272924462,0.07874658904952006
+1,Deaths,106,Commonwealth of the Bahamas,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.049816953177676,5.401897500149037,2.982503679148321
+1,Deaths,153,Syrian Arab Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,9.53301618180831,19.35688387763485,2.503801853183603
+1,Deaths,114,Republic of Haiti,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,27.809121481650468,56.11312976315604,13.217619317704662
+1,Deaths,130,United Mexican States,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,15378.772982339076,18397.48271979229,12587.98851854411
+1,Deaths,177,Republic of Djibouti,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,44.396467073449436,69.73641244294332,25.202619840838686
+1,Deaths,26,Independent State of Papua New Guinea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,15.865336425900058,45.75136721082737,6.13791034698554
+1,Deaths,79,Republic of Finland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,459.59527137385504,553.1922194289649,370.93195488705476
+1,Deaths,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,22.79105192562013,51.374930574988355,4.974409820902183
+1,Deaths,305,Bermuda,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.812151611633586,1.0601180140626543,0.6036699573826433
+1,Deaths,62,Russian Federation,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,23696.01427988492,26602.536233648087,20957.275823412456
+1,Deaths,20,Socialist Republic of Viet Nam,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6175.517325901685,9103.841968270332,3940.9248239881513
+1,Deaths,161,People's Republic of Bangladesh,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,602.6591671488416,911.8929436694282,363.8002495212098
+1,Deaths,416,Tuvalu,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.006296901157360936,0.012296072402254329,0.0009131443469139478
+1,Deaths,106,Commonwealth of the Bahamas,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,16.18961591592453,20.484767630683905,12.688478082368494
+1,Deaths,53,Republic of Serbia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,612.4475265056882,804.8317261879323,439.438183571697
+1,Deaths,139,People's Democratic Republic of Algeria,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,60.527903124787976,95.1695284484432,35.016830303411105
+1,Deaths,74,Principality of Andorra,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.31046183196336674,0.4524128266566497,0.187774364638404
+1,Deaths,413,Tokelau,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.03154346551938137,0.04689051436034456,0.019972244573412474
+1,Deaths,50,Montenegro,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,28.012183804337248,37.36393211511389,20.930987953338178
+1,Deaths,26,Independent State of Papua New Guinea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.676736566069861,8.342651960175926,0.5265962580711221
+1,Deaths,154,Republic of Tunisia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,14.933749423879288,20.875950014522168,7.023080194435422
+1,Deaths,305,Bermuda,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.1901846319524965,2.6650316375349887,1.8079761790402884
+1,Deaths,132,Republic of Panama,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,155.1218506158417,203.06573986057765,111.34624913584074
+1,Deaths,114,Republic of Haiti,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,145.5765068378753,296.2537934321349,41.78905224688759
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.4706113697366412,1.931917075896286,1.0494846282911694
+1,Deaths,81,Federal Republic of Germany,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3603.40808568947,4468.242803061968,2781.7884028554613
+1,Deaths,74,Principality of Andorra,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.067729016558083,1.7825191296672216,0.35863513489342863
+1,Deaths,195,Republic of Namibia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.0449174234773046,0.15745334913174183,0.009289946654574709
+1,Deaths,115,Jamaica,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,10.44490882827423,13.698993997685086,7.778165032652899
+1,Deaths,165,Islamic Republic of Pakistan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2611.221893462216,3667.032815087752,1592.2266613353952
+1,Deaths,161,People's Republic of Bangladesh,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,153.11069362233795,442.09880554456146,23.094591988571864
+1,Deaths,203,Republic of Cabo Verde,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,22.526121052442097,34.12483828400789,13.113003311514019
+1,Deaths,213,Republic of the Niger,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,119.35488099963233,211.76677192770404,71.8788331005022
+1,Deaths,101,Canada,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1357.2005386139047,1418.3958445712706,1294.1626734268161
+1,Deaths,34,Republic of Azerbaijan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,244.93530501599028,411.3197356269823,130.42458402338607
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.772574689244657,9.088935330777494,4.757735035568841
+1,Deaths,198,Republic of Zimbabwe,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,43.69437112566992,66.34646292349966,29.00339482620669
+1,Deaths,155,Republic of Turkey,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,336.53115862614,533.5038307725944,193.4197763939151
+1,Deaths,60,Republic of Lithuania,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,259.6833469352535,290.0809641696508,227.29216544062982
+1,Deaths,320,Cook Islands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.3714312956759085,0.5113453062850486,0.25403612409742404
+1,Deaths,84,Ireland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,96.87828019214535,127.13732584535215,70.75185834311787
+1,Deaths,84,Ireland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,70.60494348535352,76.56744435442634,64.85555274800824
+1,Deaths,27,Independent State of Samoa,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.6687780708580562,2.3139803310648666,0.9099531324847112
+1,Deaths,198,Republic of Zimbabwe,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.8760565710342716,6.795476345965127,0.270914461571116
+1,Deaths,115,Jamaica,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,34.4939414780535,45.38064652904236,24.533343230384126
+1,Deaths,349,Greenland,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.7303855305430011,2.3559747929575696,1.233186819822009
+1,Deaths,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1760.6949072989487,2493.2102199783944,1191.8797641790584
+1,Deaths,211,Republic of Mali,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,370.7917455481959,576.8601980372919,237.25204293357234
+1,Deaths,20,Socialist Republic of Viet Nam,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3620.6704635908995,5743.902686617386,2214.9629879201357
+1,Deaths,196,Republic of South Africa,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,703.2525097853661,832.9025433052323,490.8526552659742
+1,Deaths,61,Republic of Moldova,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1189.280852499292,1457.143219725052,919.070735492786
+1,Deaths,186,Republic of Seychelles,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.225396865436327,1.716541754560734,0.8149095794719959
+1,Deaths,214,Federal Republic of Nigeria,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,777.6299317426734,1108.313581995088,526.3706646368611
+1,Deaths,214,Federal Republic of Nigeria,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1423.3426568048553,2173.0521168764426,772.053325945772
+1,Deaths,162,Kingdom of Bhutan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3.6522614981187242,6.789783716547435,0.14397847281737527
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,15.140115400154853,18.975976543098792,11.411972960159462
+1,Deaths,149,Palestine,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,14.348195624472634,22.38694101731224,9.03371794955014
+1,Deaths,186,Republic of Seychelles,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.562578148321424,0.6985939003570182,0.4192335053790011
+1,Deaths,182,Republic of Malawi,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,79.19090585615817,118.72305540343753,51.23515078567154
+1,Deaths,139,People's Democratic Republic of Algeria,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,21.110200511198958,45.382017853282115,5.139445851739858
+1,Deaths,186,Republic of Seychelles,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.05002064101980833,0.09441026022892242,0.006984740751841303
+1,Deaths,214,Federal Republic of Nigeria,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,43.11064664820764,120.12927536325914,5.562367514974045
+1,Deaths,147,State of Libya,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,30.517724867209022,49.089987588821586,19.219931526820577
+1,Deaths,92,Kingdom of Spain,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1508.819676567101,2028.8940836757172,1051.3420976035786
+1,Deaths,45,Republic of Bulgaria,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,226.2048787227619,312.27048129942335,157.45529349497534
+1,Deaths,35,Georgia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,51.93539491254537,60.92709483230872,44.11728687537532
+1,Deaths,422,United States Virgin Islands,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.8089596924966347,2.8123209064692802,1.107884507118941
+1,Deaths,84,Ireland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,35.68504190813424,42.07024898588636,29.36286862122087
+1,Deaths,102,United States of America,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,7405.873086961857,8418.606501072356,6496.4683469040765
+1,Deaths,182,Republic of Malawi,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.14098142815932294,0.9380938890715917,0.02535953897009848
+1,Deaths,140,Kingdom of Bahrain,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.7779060248053766,2.745109238300749,1.26768469132929
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,165.2118395931719,383.17303891887616,65.72446885514569
+1,Deaths,162,Kingdom of Bhutan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.5603969017412315,1.6698447718470324,0.09797580260735954
+1,Deaths,147,State of Libya,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.633646483907529,5.340026906772057,0.7352704936878568
+1,Deaths,27,Independent State of Samoa,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.08286072728792089,0.1557746568988787,0.01297579854397617
+1,Deaths,75,Republic of Austria,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,672.6045553533127,788.3075638562473,551.3139489421156
+1,Deaths,180,Republic of Kenya,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,221.60731045370554,308.4531583960734,166.5822185990446
+1,Deaths,45,Republic of Bulgaria,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,41.27264969692192,51.9623315303874,31.780018842703047
+1,Deaths,67,Japan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3162.092822715613,3793.964070065123,2659.708115449127
+1,Deaths,85,State of Israel,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,183.4580295317878,221.68944543054576,145.84762496947982
+1,Deaths,183,Republic of Mauritius,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,53.94861595780188,58.55302795914307,48.755857630034484
+1,Deaths,22,Republic of Fiji,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.554006733954444,7.4186397968008855,2.6384336407657547
+1,Deaths,435,Republic of South Sudan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,43.21162818850407,70.84433844846379,24.97509584123164
+1,Deaths,85,State of Israel,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,78.43764086498358,83.72118531251266,72.85774943969685
+1,Deaths,150,Sultanate of Oman,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,6.9958408818842175,10.498231415461406,4.236595013445615
+1,Deaths,101,Canada,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,369.7056297451569,410.215220069257,332.8523213465336
+1,Deaths,320,Cook Islands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5.839236456605528e-05,0.00011974246409496162,5.673416688163859e-06
+1,Deaths,367,Principality of Monaco,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2.799078899311198,3.648903607648893,2.0828481326023405
+1,Deaths,135,Federative Republic of Brazil,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1448.9741073458918,1647.859470405508,1257.9902357591018
+1,Deaths,55,Republic of Slovenia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,84.49067820886488,109.54919195439749,61.721866701714085
+1,Deaths,435,Republic of South Sudan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.07275331548976027,0.47552438513797013,0.011633166700221242
+1,Deaths,102,United States of America,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,21856.859586767026,24653.58231041609,19142.606553971462
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.39866759177675,1.7240045973597589,0.9802154678617544
+1,Deaths,82,Hellenic Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,50.482512866047294,53.68933680997043,47.4680300768111
+1,Deaths,37,Kyrgyz Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,42.09293306467752,58.81059987604228,28.330565177342983
+1,Deaths,37,Kyrgyz Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,327.3248959433756,389.610073507299,272.6205191797906
+1,Deaths,28,Solomon Islands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,18.189373310002036,28.137145893711956,11.257456706091016
+1,Deaths,183,Republic of Mauritius,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.908405230769294,4.556705726204146,3.374081212604443
+1,Deaths,349,Greenland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1.6676737349964854,2.50345614365039,1.018227551771205
+1,Deaths,37,Kyrgyz Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,461.229070556534,560.8132182585592,381.4596419399757
+1,Deaths,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,214.09381011074566,301.4175805884184,144.8212358370811
+1,Deaths,107,Barbados,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,6.813304103928142,8.75116761502192,5.177464187845256
+1,Deaths,63,Ukraine,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,348.3248212621041,485.6387114153029,236.41227285296637
+1,Deaths,148,Kingdom of Morocco,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,47.434177375667204,65.300917114962,25.337193071300206
+1,Deaths,82,Hellenic Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,22.643309586808712,26.769431684925987,19.29354477647247
+1,Deaths,184,Republic of Mozambique,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,478.4559918003105,720.117303269465,300.7782181404958
+1,Deaths,133,Bolivarian Republic of Venezuela,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,101.21520438416417,132.57354901721158,71.57706711712194
+1,Deaths,53,Republic of Serbia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,280.40566693936427,401.8102928350782,188.03071347538037
+1,Deaths,125,Republic of Colombia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,358.53926463183177,479.1327646882621,246.97991967869137
+1,Deaths,125,Republic of Colombia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,86.35752537725332,104.78583116162736,71.07232509478841
+1,Deaths,180,Republic of Kenya,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.25110010785773335,1.827642998507819,0.04710574433824
+1,Deaths,35,Georgia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,18.982090954486026,24.663657078956927,14.39418236564117
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,8.825151662525275,10.299957209531149,7.663197120179573
+1,Deaths,150,Sultanate of Oman,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.22760987837586916,0.6161323529041404,0.03566058841586189
+1,Deaths,163,Republic of India,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,88129.65333557496,115503.96400150303,61567.14901924073
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.162041206402223,3.7136621831815035,2.6778488285913626
+1,Deaths,215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,12.236393441386747,18.784073278881884,6.474220622606571
+1,Deaths,36,Republic of Kazakhstan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2828.751728496831,3623.074915468199,2172.1914716784445
+1,Deaths,83,Republic of Iceland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4.717402151261243,5.637029791703992,3.7625934704410966
+1,Deaths,151,State of Qatar,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.9624155146351185,11.69013807627625,3.9993599458878712
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1002.4503220040777,1196.4005985980514,768.6801173907769
+1,Deaths,53,Republic of Serbia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,442.50539787228035,715.0012548331634,105.93237099042129
+1,Deaths,118,Republic of Suriname,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,47.850609716040886,64.0794539450168,33.12067066347365
+1,Deaths,157,Republic of Yemen,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,21.11062434617076,39.81022000053118,10.73417770865712
+1,Deaths,86,Republic of Italy,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2342.737709912436,2680.6605819562997,2024.1936188770435
+1,Deaths,197,Kingdom of Eswatini,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,41.44871298917067,66.37534443379127,24.979082986631
+1,Deaths,38,Mongolia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,598.2775066794408,758.9483260473303,409.6783378951436
+1,Deaths,212,Islamic Republic of Mauritania,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,25.380846325345658,40.57843299103183,13.7586522826351
+1,Deaths,187,Federal Republic of Somalia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,189.11238601702874,308.6401302583334,121.99755831097727
+1,Deaths,351,Guam,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.4518664169778177,0.872324348136833,0.3489175963831988
+1,Deaths,212,Islamic Republic of Mauritania,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.9833109364595641,2.7804608948205582,0.13756782698362463
+1,Deaths,136,Republic of Paraguay,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,275.83369671547644,379.84974015068065,151.52813954083007
+1,Deaths,141,Arab Republic of Egypt,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1321.0785734089645,2035.747124924929,753.0834372358523
+1,Deaths,119,Republic of Trinidad and Tobago,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,13.441630710048715,18.91907807215188,8.834426072502884
+1,Deaths,92,Kingdom of Spain,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,246.2991417833955,288.85576356023176,207.28476334315704
+1,Deaths,67,Japan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6989.006514656536,7826.276330977076,6092.092324429108
+1,Deaths,172,Republic of Equatorial Guinea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,4.795420813519577,8.726588722892952,2.6833230170566384
+1,Deaths,172,Republic of Equatorial Guinea,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,12.161161103155047,18.92212476349028,6.04714368670346
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,10.622796920295999,28.48433269421183,1.095363913136954
+1,Deaths,135,Federative Republic of Brazil,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,11692.147957218209,12810.312095415911,10623.941892657744
+1,Deaths,119,Republic of Trinidad and Tobago,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,15.063761502595884,19.810233767777294,10.668191809681954
+1,Deaths,108,Belize,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,25.101163489771338,31.242897078584033,19.210720277700197
+1,Deaths,69,Republic of Singapore,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,21.274387324161275,29.146745677036524,14.59662090452972
+1,Deaths,202,Republic of Cameroon,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,321.3831105344017,591.3369835997314,166.02635671254632
+1,Deaths,215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.7872372508205738,2.714767607284463,1.0723771548889907
+1,Deaths,168,Republic of Angola,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,179.75086313221874,482.63407645114853,37.74570175661114
+1,Deaths,213,Republic of the Niger,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,550.5405690701673,1013.196191905211,281.7116927268322
+1,Deaths,136,Republic of Paraguay,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,7.827520804921057,17.078658518472558,1.7470914248432994
+1,Deaths,205,Republic of Côte d'Ivoire,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,95.95890628837618,157.99747483869638,53.12100485334304
+1,Deaths,181,Republic of Madagascar,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,258.1149743833876,394.87156012242224,170.3354965917467
+1,Deaths,172,Republic of Equatorial Guinea,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.012477668080802815,0.07319719932113579,0.002010389335937815
+1,Deaths,22,Republic of Fiji,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,10.58857169225882,16.4058231744261,6.398026115663498
+1,Deaths,202,Republic of Cameroon,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,8.699374159116273,21.579882755616726,1.1545208448954751
+1,Deaths,351,Guam,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.1860494959438967,0.3692675251965091,0.04207447484624404
+1,Deaths,216,Republic of Senegal,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,353.3313013310862,544.621844738997,208.73438210820694
+1,Deaths,46,Republic of Croatia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,205.566851867979,235.47105472249896,176.51842642369925
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,85.50010177235377,128.09063784906155,50.36885560297551
+1,Deaths,54,Slovak Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,170.4270943802199,220.68741327023636,108.07678983228998
+1,Deaths,173,Gabonese Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,91.98090347962966,139.7026929076055,55.22812788048804
+1,Deaths,168,Republic of Angola,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.40639690929750766,2.3289807184924105,0.07147142282529684
+1,Deaths,6,People's Republic of China,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,18317.089506431366,24251.632804895406,13652.970444252285
+1,Deaths,173,Gabonese Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,23.80919053513535,33.7550878756315,13.346259176358084
+1,Deaths,125,Republic of Colombia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,38.70291427274569,47.553611715874176,30.856590386764207
+1,Deaths,12,Lao People's Democratic Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.8829984632518504,5.515005077445024,0.5789039034492144
+1,Deaths,182,Republic of Malawi,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,700.0820850933657,1005.0643164260797,458.15618296317206
+1,Deaths,69,Republic of Singapore,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,35.499073279663286,54.14813492730066,22.358311982429704
+1,Deaths,93,Kingdom of Sweden,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,344.21173644281635,391.1111079427647,299.37776650877083
+1,Deaths,54,Slovak Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,118.30451953467562,183.34734989920526,24.530067817446206
+1,Deaths,143,Republic of Iraq,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,106.24866210615295,164.26606637832072,59.95302282966444
+1,Deaths,94,Swiss Confederation,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,320.358707658443,379.19324571549606,261.16571649891836
+1,Deaths,184,Republic of Mozambique,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,496.622111583515,1100.5074788212628,235.82872950849148
+1,Deaths,126,Republic of Costa Rica,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,72.16610465614268,81.08355056125347,62.203133092028786
+1,Deaths,200,Republic of Benin,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,111.88770287075369,167.8524223134218,70.88970854201479
+1,Deaths,200,Republic of Benin,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,99.54810400073693,142.3981273425994,61.762082187160594
+1,Deaths,13,Malaysia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,156.79587318538358,235.09070961905695,104.25776626292502
+1,Deaths,200,Republic of Benin,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.854421787077619,7.310937239678183,0.3815033427645188
+1,Deaths,149,Palestine,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,14.412498915791979,21.625121421731578,8.460997201300428
+1,Deaths,169,Central African Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,71.99348848704109,108.11958215130682,38.97041430251358
+1,Deaths,185,Republic of Rwanda,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,209.46443647729933,301.9527015797124,148.89206303412203
+1,Deaths,71,Australia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,415.8975632367818,534.918183123644,315.4483951418885
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,586.5160757145023,873.9958831483419,349.7770412586513
+1,Deaths,189,United Republic of Tanzania,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1609.2269200482215,2411.831922653915,1005.576503074166
+1,Deaths,216,Republic of Senegal,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,106.72985852222295,159.08256606479037,68.23098988817415
+1,Deaths,47,Czech Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1160.5684002223402,1408.6445826941886,934.9192912477623
+1,Deaths,218,Togolese Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,49.35647328672826,85.7142999509407,27.774799191445176
+1,Deaths,216,Republic of Senegal,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,4.647429906374514,13.394888177514636,0.6682968149800212
+1,Deaths,202,Republic of Cameroon,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,768.303272342796,1226.3174895413606,444.1311891655363
+1,Deaths,151,State of Qatar,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,10.651473553115647,16.994006546319355,6.110871387861283
+1,Deaths,374,Republic of Niue,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.016738822130418354,0.02951310711292014,0.00960352927306915
+1,Deaths,206,Republic of the Gambia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,23.02595761986403,32.022001656416215,14.922600090721799
+1,Deaths,110,Commonwealth of Dominica,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.0556972601799688,1.513406069384444,0.7137768692016743
+1,Deaths,13,Malaysia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.2647336337074727,0.5743362824980641,0.026130614628657553
+1,Deaths,86,Republic of Italy,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1566.1774934322932,1824.1297799650324,1347.38385050938
+1,Deaths,152,Kingdom of Saudi Arabia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,53.72798368106678,86.58379268909846,32.34596838425244
+1,Deaths,217,Republic of Sierra Leone,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,73.62532741911015,105.36451769526482,45.94768416282199
+1,Deaths,86,Republic of Italy,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,118.70484769900699,137.94456466995854,97.16583987498875
+1,Deaths,206,Republic of the Gambia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.7083791447299472,1.7107208579777067,0.10019873312262789
+1,Deaths,14,Republic of Maldives,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.1512854196552755,8.589217192662526,4.04270366045715
+1,Deaths,152,Kingdom of Saudi Arabia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,4.676629244670543,6.321028441624177,3.3598782722901093
+1,Deaths,66,Brunei Darussalam,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,6.931513045634339,9.543389680822084,4.733475066165368
+1,Deaths,152,Kingdom of Saudi Arabia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,14.381232753872464,24.69541201222711,2.6265231967354405
+1,Deaths,207,Republic of Ghana,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,955.6074500580963,1433.8484152878473,578.2218275426806
+1,Deaths,87,Grand Duchy of Luxembourg,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,23.414262561861474,25.88385634936473,21.17937123508439
+1,Deaths,218,Togolese Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,238.3600069983823,370.23767384344086,140.29315656868417
+1,Deaths,78,Kingdom of Denmark,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,136.01929821709234,177.08282211260615,99.41909760218905
+1,Deaths,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,4.699400088649443,6.205967715382668,2.999295646239877
+1,Deaths,168,Republic of Angola,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1168.2105510638844,1799.7382393488542,708.0473293587996
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,60.768013816097714,87.9222558032396,41.47132251010177
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,114.79559482603477,159.0586885268981,74.65409424254625
+1,Deaths,160,Islamic Republic of Afghanistan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,128.55063529800833,216.90530467361222,65.42855586237279
+1,Deaths,144,Hashemite Kingdom of Jordan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.2797880513790304,0.46135444064687287,0.04194631972563337
+1,Deaths,78,Kingdom of Denmark,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,47.06903014685455,54.26927853349055,40.486687192298
+1,Deaths,111,Dominican Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,69.53997154412603,112.52779877271452,13.138807602799229
+1,Deaths,176,Union of the Comoros,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,3.4575903741087988,5.896876633968759,1.8651257068906408
+1,Deaths,33,Republic of Armenia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,260.944321088521,323.02723364633744,200.0628183955688
+1,Deaths,127,Republic of El Salvador,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,491.1769620182577,654.0438364775962,351.02307618917877
+1,Deaths,145,State of Kuwait,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,8.361956428964907,12.181798600391279,5.225274514356436
+1,Deaths,49,North Macedonia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,107.9865998807806,146.85456345077213,72.78920380833493
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.256237076859314,1.5601567877549416,0.8666201949149586
+1,Deaths,68,Republic of Korea,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,2334.1841808020818,3405.53698271631,1538.4516891944688
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.07806704370728888,0.23421907164920422,0.021567036989188715
+1,Deaths,380,Republic of Palau,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.6553157043774033,1.0454520610615714,0.3733399164836894
+1,Deaths,79,Republic of Finland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,472.65741339226264,506.4998215374032,440.83272548228234
+1,Deaths,112,Grenada,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,7.180448018429161,8.96364717226908,5.607714461456125
+1,Deaths,97,Argentine Republic,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,456.059224081951,486.8930395449516,431.1394206960914
+1,Deaths,80,French Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3848.594190583692,4514.297716883911,3198.343818543014
+1,Deaths,112,Grenada,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3.0716982153330634,3.620709076290456,2.5628616988754622
+1,Deaths,97,Argentine Republic,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,83.98199358548575,97.82570658290992,71.32189532718259
+1,Deaths,50,Montenegro,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,25.236335196314347,35.9209841507579,16.603370444982186
+1,Deaths,50,Montenegro,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,9.40991839067911,12.43302610822262,6.524089019930819
+1,Deaths,50,Montenegro,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,38.82350655973822,65.07446432342527,9.539103160594227
+1,Deaths,191,Republic of Zambia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,71.59090995455517,184.04144922393985,28.978112596399768
+1,Deaths,129,Republic of Honduras,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,51.29833553466378,82.19168008296023,32.78628236012734
+1,Deaths,98,Republic of Chile,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,1256.6162138292634,1585.6583608915244,978.7118893856303
+1,Deaths,522,Republic of Sudan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,173.1130928269532,353.05107899512564,86.15873355282578
+1,Deaths,35,Georgia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,71.87428514235694,97.20807552139564,51.72464152115251
+1,Deaths,113,Republic of Guyana,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,96.70252540325394,130.48819289196555,67.05760430110979
+1,Deaths,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,94.86033070100454,146.9512057299243,51.73756847640921
+1,Deaths,210,Republic of Liberia,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,74.01088447088209,117.33270515008941,43.68327809446805
+1,Deaths,162,Kingdom of Bhutan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,5.480886631471738,8.589320548645844,3.1827357713586455
+1,Deaths,51,Republic of Poland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,3784.449487993215,4370.796258498269,3291.558934658674
+1,Deaths,17,Democratic Socialist Republic of Sri Lanka,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,20.557113211942017,46.175181245705794,3.728707521749512
+1,Deaths,36,Republic of Kazakhstan,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,245.5634173222514,334.32514144654874,167.17631772186746
+1,Deaths,36,Republic of Kazakhstan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,930.6985145423783,1064.9208038435381,811.6853184825926
+1,Deaths,51,Republic of Poland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,5035.258502104532,5544.4910424231275,4555.348287187771
+1,Deaths,130,United Mexican States,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3333.5863686930306,3899.291479973168,2841.7886312107807
+1,Deaths,177,Republic of Djibouti,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,17.907868022555377,29.511038252394297,10.149442812992639
+1,Deaths,148,Kingdom of Morocco,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,18.507467745383906,30.637670754162396,10.861397544939717
+1,Deaths,69,Republic of Singapore,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,3.719813240998418,3.9908238998856724,3.4755020429991417
+1,Deaths,177,Republic of Djibouti,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.011183938493708311,0.08065428664076764,0.0019073314342744803
+1,Deaths,36,Republic of Kazakhstan,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,221.69876501627812,406.43504664148014,110.75875876439915
+1,Deaths,52,Romania,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,4717.658819775794,5667.341083348431,3719.6183808025517
+1,Deaths,69,Republic of Singapore,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,2.495329264407577,2.8760992468418496,2.128715832328957
+1,Deaths,37,Kyrgyz Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,701.3387714831372,904.0310234923908,513.0819311913741
+1,Deaths,178,State of Eritrea,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,271.18076767790666,411.6931633018242,165.4465657571998
+1,Deaths,163,Republic of India,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,22574.466029126495,28903.046884417854,11957.216552314994
+1,Deaths,130,United Mexican States,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,279.4657042359787,325.2958958837365,235.06356049869757
+1,Deaths,99,Eastern Republic of Uruguay,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,111.91035289702367,140.5008442904681,84.2985160182052
+1,Deaths,210,Republic of Liberia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.5414060627534052,3.779490778075972,0.20265550601715498
+1,Deaths,148,Kingdom of Morocco,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,26.015076282003847,62.75253414793404,6.575510164481505
+1,Deaths,131,Republic of Nicaragua,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,419.906288560386,533.2634673387511,309.64234346251277
+1,Deaths,18,Kingdom of Thailand,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1593.598017386789,2199.8190750800754,968.78703191491
+1,Deaths,163,Republic of India,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1138.520453969562,2639.2832239493478,210.63575906384804
+1,Deaths,211,Republic of Mali,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,152.19892151166118,239.3095379940798,91.98575397820501
+1,Deaths,149,Palestine,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.22165953775027877,0.28879839562653953,0.11776932534991995
+1,Deaths,298,American Samoa,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.31723857161297253,0.48907305220763,0.19750921369654367
+1,Deaths,115,Jamaica,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,14.73800509553527,20.917589613403454,9.691313101458286
+1,Deaths,211,Republic of Mali,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,3.5497986191736106,10.729381787828535,0.4631212888129423
+1,Deaths,82,Hellenic Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,288.20275988663525,381.3808624052737,208.74961405420063
+1,Deaths,193,Republic of Botswana,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,57.539264953985246,86.15928199213064,36.181832927070815
+1,Deaths,149,Palestine,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.8801989833440648,1.5830525671990665,0.16772440380023665
+1,Deaths,396,Republic of San Marino,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.6712389297696763,1.0304397940156091,0.3889898403629355
+1,Deaths,164,Federal Democratic Republic of Nepal,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,2239.92436943178,3137.755845412055,1510.7962959309468
+1,Deaths,19,Democratic Republic of Timor-Leste,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,36.93546292798373,66.16847504268782,20.503528157839437
+1,Deaths,101,Canada,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1626.952348529438,1945.5898570820011,1306.7258747995315
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,9.493383103700996,11.576713978676464,7.627199747533534
+1,Deaths,102,United States of America,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,17300.93365347015,17859.606560694818,16778.618444101114
+1,Deaths,298,American Samoa,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.06056384301374442,0.14062416135737973,0.020029014481855845
+1,Deaths,116,Saint Lucia,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,11.543171579861257,14.076011533011371,9.200240093665697
+1,Deaths,150,Sultanate of Oman,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,12.137080771399642,19.08150070474079,7.149103702253095
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,9.052803652835266,11.069182092605566,7.0505943327784335
+1,Deaths,396,Republic of San Marino,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.23806302493881973,0.4502554158404761,0.06663875144951102
+1,Deaths,305,Bermuda,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,1.244665615600843,1.512661957014716,1.0325564319715428
+1,Deaths,38,Mongolia,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,317.5899606415277,418.6792371239074,238.79940948191205
+1,Deaths,54,Slovak Republic,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,169.00330492222997,239.40959811295662,116.06418834641501
+1,Deaths,212,Islamic Republic of Mauritania,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,85.68508711979811,137.77890753246137,48.37934491877504
+1,Deaths,102,United States of America,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5644.312095386135,6018.198273260986,5234.68687249206
+1,Deaths,83,Republic of Iceland,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,8.710483137281162,9.609605304888408,7.895522619339637
+1,Deaths,83,Republic of Iceland,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.016359839400447,1.1773669504475526,0.8618613697894453
+1,Deaths,413,Tokelau,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.012693153338982225,0.017890283720591368,0.0066336438110927215
+1,Deaths,84,Ireland,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,118.33535669839779,140.2808747484085,96.59224926018918
+1,Deaths,181,Republic of Madagascar,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,55.48629681799945,101.15289338570594,28.874681514226324
+1,Deaths,181,Republic of Madagascar,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.38130199101253776,2.767628074887826,0.05692693950627479
+1,Deaths,320,Cook Islands,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.08033223778949254,0.1222326364651027,0.051036751196406764
+1,Deaths,196,Republic of South Africa,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,702.7259597948299,860.9506115801283,562.0841306569006
+1,Deaths,22,Republic of Fiji,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,0.9039302538618987,1.279126263419191,0.46456528140165426
+1,Deaths,182,Republic of Malawi,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,225.2419363645751,321.0366313761852,149.88676526462208
+1,Deaths,196,Republic of South Africa,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1.4355829962590216,2.1774762184467042,0.179748824807212
+1,Deaths,416,Tuvalu,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,0.3292419277741291,0.5006971945713092,0.20498973394050152
+1,Deaths,87,Grand Duchy of Luxembourg,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,16.801426940492348,21.289577710916312,12.72642926054005
+1,Deaths,87,Grand Duchy of Luxembourg,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,5.543238267904387,6.464390127893221,4.618411428905323
+1,Deaths,351,Guam,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,1.599646107877912,2.39740264132279,1.0379889592698148
+1,Deaths,135,Federative Republic of Brazil,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,8275.875991375562,8611.266063040393,7935.80257240711
+1,Deaths,197,Kingdom of Eswatini,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,11.675894457832815,16.928769363620315,6.758562956095115
+1,Deaths,183,Republic of Mauritius,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,56.83884618141247,73.44395777918987,40.40388802353834
+1,Deaths,215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,0.5413142859309571,0.9646964000236138,0.29793411039573725
+1,Deaths,197,Kingdom of Eswatini,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.018247425563766854,0.05407775598262088,0.00346877376377518
+1,Deaths,198,Republic of Zimbabwe,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,485.2437223601353,775.9020739343445,240.64880780811757
+1,Deaths,215,Democratic Republic of Sao Tome and Principe,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,0.06443574335908964,0.16428048274305837,0.008927444813690934
+1,Deaths,135,Federative Republic of Brazil,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,1177.9331000159611,1262.84839123198,1092.158451295881
+1,Deaths,168,Republic of Angola,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,299.93375110149543,429.8372629237288,188.6639400164821
+1,Deaths,169,Central African Republic,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,337.6877400769594,528.1701188845248,201.08968317968893
+1,Deaths,136,Republic of Paraguay,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,262.62457883118486,369.66760821458706,177.593115401311
+1,Deaths,185,Republic of Rwanda,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,63.32756133305997,100.1816966587832,35.437776864152454
+1,Deaths,216,Republic of Senegal,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,128.82755132434053,202.98471405309766,72.61427297141219
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2021,380.9014455837882,655.778698979899,164.2735251901659
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,224.5954910098766,304.35058127701853,151.14583256931934
+1,Deaths,201,Burkina Faso,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2021,7.644989176138666,20.344711906300894,1.138895060592756
+1,Deaths,435,Republic of South Sudan,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,357.9020375008156,570.8650337681977,207.99023658931756
+1,Deaths,202,Republic of Cameroon,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,291.6604861779967,409.2888268950695,171.48369049296053
+1,Deaths,435,Republic of South Sudan,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2021,111.23069164807157,169.32323311831541,69.52122158751929
+1,Deaths,217,Republic of Sierra Leone,3,Both,22,All ages,524,Cirrhosis due to alcohol,1,Number,2021,224.52470842232518,345.25180616770257,138.83642770016192
